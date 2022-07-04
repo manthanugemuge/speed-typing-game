@@ -1,6 +1,8 @@
 # Speed-Typing-Game
 Speed Typing Game using Python
 
+## Tech stack Used
+
 ## How to use Project
 - Download or clone the repository Website : 
 ```
