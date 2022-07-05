@@ -6,7 +6,7 @@ Speed Typing Game using Python
 ## How to use Project
 - Download or clone the repository Website : 
 ```
-
+https://github.com/ManthanUgemuge/Speed-Typing-Game.git
 ```
 
 ## Contributing
