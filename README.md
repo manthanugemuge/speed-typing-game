@@ -1,6 +1,8 @@
 # Speed-Typing-Game
 Speed Typing Game using Python. 
 
+## About the Project
+
 ## Tech stack Used
 <a target="_blank" href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img></a>
 
