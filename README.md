@@ -11,7 +11,7 @@ Speed Typing Game using Python.
 ```
 https://github.com/ManthanUgemuge/Speed-Typing-Game.git
 ```
-
+[Download](https://github.com/ManthanUgemuge/Speed-Typing-Game/archive/refs/heads/main.zip)
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
 
