@@ -1,5 +1,5 @@
-# Speed-Typing-Game
-Speed Typing Game using Python. 
+# Speed Typing Game
+Speed Typing Game made using Python. 
 
 ## About the Project
 
