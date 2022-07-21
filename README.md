@@ -2,6 +2,10 @@
 Speed Typing Game made using Python. 
 
 ## About the Project
+It is a Group Project consisting of Memebers
+- Shivam Kumar
+- Md Aamir Sohail
+- Manthan Ugemuge
 
 ## Tech stack Used
 <a target="_blank" href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img></a>
