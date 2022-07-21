@@ -2,7 +2,7 @@
 Speed Typing Game made using Python. 
 
 ## About the Project
-It is a Group Project consisting of Memebers
+It is a Group Project consisting of Members:
 - Shivam Kumar
 - Md Aamir Sohail
 - Manthan Ugemuge
