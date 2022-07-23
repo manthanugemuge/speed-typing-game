@@ -2,7 +2,7 @@
 Speed Typing Game made using Python. 
 
 ## About the Project
-It is a Group Project consisting of Members:
+It is a Group Project of LPU consisting of Members:
 - Shivam Kumar
 - Md Aamir Sohail
 - Manthan Ugemuge
