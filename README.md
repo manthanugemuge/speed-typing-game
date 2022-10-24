@@ -16,6 +16,7 @@ It is a Group Project of LPU consisting of Members:
 https://github.com/manthanugemuge/speed-typing-game.git
 ```
 
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/manthanugemuge/speed-typing-game/archive/refs/heads/main.zip) 
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
