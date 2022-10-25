@@ -13,9 +13,10 @@ It is a Group Project of LPU consisting of Members:
 ## How to use Project
 - Download or clone the repository Website : 
 ```
-https://github.com/ManthanUgemuge/Speed-Typing-Game.git
+https://github.com/manthanugemuge/speed-typing-game.git
 ```
-[Download](https://github.com/ManthanUgemuge/Speed-Typing-Game/archive/refs/heads/main.zip)
+
+
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
 
